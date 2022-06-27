@@ -8,7 +8,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 我的新书《Android Jetpack开发：原理解析与应用实战》已出版 
+[我的新书《Android Jetpack开发：原理解析与应用实战》已出版](https://huanglinqing.blog.csdn.net/article/details/123133085)
 
 [京东购买地址](https://item.m.jd.com/product/10055064927648.html)
 
