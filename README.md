@@ -1,19 +1,48 @@
-### Hi there 👋
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huanglinqing123&show_icons=true&theme=graywhite"/>
+</p>
 
-<!--
-**huanglinqing123/huanglinqing123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> Android、Kotlin、Compose </p>  
 
-Here are some ideas to get you started:
+<table align="center">
+<tr>
+<td valign="top" width="50%"> 
+<a href="https://huanglinqing.blog.csdn.net/article/details/123133085" title="《Android Jetpack开发：原理解析与应用实战》"><img src="https://img-blog.csdnimg.cn/3b1e774a69c9404a88b5029941ed5d40.png" alt="《Android Jetpack开发：原理解析与应用实战》" /></a>
+</td>
+<td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 我的新书《Android Jetpack开发：原理解析与应用实战》已出版
+[我的新书：《Android Jetpack开发：原理解析与应用实战》已出版](https://huanglinqing.blog.csdn.net/article/details/123133085)
+ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanglinqing123)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanglinqing123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[京东购买地址](https://item.m.jd.com/product/10055064927648.html)
+
+[当当购买地址](http://product.dangdang.com/11171911064.html)
+
+[淘宝](https://m.tb.cn/h.fwge2NS?tk=MgpN2owi1U0)
+  
+
+[微信公众号：Android技术圈](https://mp.weixin.qq.com/s/E0j6Kc4FERW1GCmAa_TVJA)
+  
+<a href="https://img-blog.csdnimg.cn/20190419110850286.jpg" title="Android技术圈"><img src="https://img-blog.csdnimg.cn/20190419110850286.jpg" alt="Android技术圈" /></a>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+	
+### 开源项目  
+- [TravelPrevention](https://github.com/huanglinqing123/TravelPrevention) ：Kotlin + MVVM + 协程、Flow
+  
+	
+</td>
+
+<td valign="top" width="50%">
+
+### 我的博客
+- [CSDN](https://huanglinqing.blog.csdn.net/)
+
+</td>
+</tr>
+</table>
