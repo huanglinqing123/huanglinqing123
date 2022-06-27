@@ -1,8 +1,4 @@
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huanglinqing123&show_icons=true&theme=graywhite"/>
-</p>
-
 <p align="center"> Android、Kotlin、Compose </p>  
 
 <table align="center">
@@ -20,7 +16,7 @@
 
 [当当购买地址](http://product.dangdang.com/11171911064.html)
 
-[淘宝](https://m.tb.cn/h.fwge2NS?tk=MgpN2owi1U0)
+[淘宝购买地址](https://m.tb.cn/h.fwge2NS?tk=MgpN2owi1U0)
   
 
 [微信公众号：Android技术圈](https://mp.weixin.qq.com/s/E0j6Kc4FERW1GCmAa_TVJA)
