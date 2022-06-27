@@ -1,5 +1,5 @@
   
-<p align="center"> [我的新书《Android Jetpack开发：原理解析与应用实战》已出版](https://huanglinqing.blog.csdn.net/article/details/123133085)</p>  
+<p align="center"> 我的新书《Android Jetpack开发：原理解析与应用实战》已出版</p>  
 
 <table align="center">
 <tr>
