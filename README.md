@@ -1,4 +1,7 @@
   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huanglinqing123&show_icons=true&theme=graywhite"/>
+</p>
 <p align="center"> 我的新书《Android Jetpack开发：原理解析与应用实战》已出版</p>  
 
 <table align="center">
